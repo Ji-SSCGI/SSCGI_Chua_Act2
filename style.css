@@ -1,0 +1,9 @@
+body {
+    background-color: whitesmoke;
+}
+
+#section-home {
+    margin-top: 5rem;
+    padding: 10px;
+    height: 50rem;
+}

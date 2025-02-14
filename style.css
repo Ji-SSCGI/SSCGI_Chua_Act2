@@ -7,3 +7,21 @@ body {
     padding: 10px;
     height: 50rem;
 }
+
+#section-about {
+    margin-top: 5rem;
+    padding: 10px;
+    height: 20rem;
+}
+
+#section-project {
+    margin-top: 5rem;
+    padding: 10px;
+    height: 30rem;
+}
+
+#section-contact {
+    margin-top: 5rem;
+    padding: 10px;
+    height: 10rem;
+}
